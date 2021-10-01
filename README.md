@@ -26,3 +26,26 @@
 #### Employees eligible to participate in a mentorship program:
 
 <img src = "Resources/List_of_Mentees.png" width = 500)>
+
+### Summary:
+
+The ratio between total retiring and total eligible mentee is 1:58 which is very large. Pewlett Hackard needs to find a way to bridge this huge gap.
+
+#### Total Retiring
+<img src = "Resources/Total_Count_Retiring.png" width = 500)>
+
+#### Total Eligible Mentee 
+<img src = "Resources/Total_Eligible_Mentee.png" width = 500)>
+
+--------------------------------------------------------------
+
+#### Mentee Count by Title
+From the Mentee count by title, we see that the largest retiring titles, also have the largest mentee count. But the ratio is 1:52 mentee/retiring.To increase the number of mentees for the top three retiring titles, Pewlett Hackard have to expand their mentorship program criteria.
+
+<img src = "Resources/Mentee_Count_by_Title.png" width = 500)>
+
+
+
+
+
+
